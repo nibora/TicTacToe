@@ -1,0 +1,10 @@
+#gameboard {
+    display: grid;
+    grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+}
+
+div {
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+}
