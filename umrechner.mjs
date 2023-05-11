@@ -1,6 +1,5 @@
 export function umrechner() {
 
-
 const euro = document.querySelector('#eu');
 const kurs = document.querySelector('#ku');
 const dollar = document.querySelector('#do');
